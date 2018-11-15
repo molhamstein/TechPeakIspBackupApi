@@ -4,7 +4,7 @@
     "port": 0,
     "url": "mysql://root:@localhost/isp",
     "database": "isp",
-    "password": "",
+    "password": "foxRiver123!@#",
     "name": "mysql",
     "user": "root",
     "connector": "mysql"
