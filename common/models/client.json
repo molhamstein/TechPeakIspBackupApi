@@ -1,0 +1,39 @@
+{
+  "name": "client",
+  "plural": "/client",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "mobile": {
+      "type": "string",
+      "required": true
+    },
+    "location": {
+      "type": "string",
+      "required": true
+    },
+    "acctstarttime": {
+      "type": "date",
+      "required": true
+    },
+    "acctstoptime": {
+      "type": "date"
+    },
+    "radacctid": {
+      "type": "number",
+      "required": true
+    },
+    "update_at": {
+      "type": "date"
+    }
+    
+
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

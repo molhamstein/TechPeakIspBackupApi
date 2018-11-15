@@ -1,0 +1,12 @@
+{
+  "mysql": {
+    "host": "localhost",
+    "port": 0,
+    "url": "mysql://root:@localhost/isp",
+    "database": "isp",
+    "password": "",
+    "name": "mysql",
+    "user": "root",
+    "connector": "mysql"
+  }
+}

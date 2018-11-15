@@ -1,0 +1,7 @@
+{
+  "loginData": {
+    "email": "isp@isp.com",
+    "password": "password"
+  },
+  "host":"http://185.84.236.39:3000/"
+}
