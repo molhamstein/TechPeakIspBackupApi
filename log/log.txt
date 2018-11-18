@@ -1,0 +1,216 @@
+client{"mobile":"00963934531661","acctstarttime":"2018-11-18T17:19:52.000Z","acctstoptime":"2018-11-18T17:30:31.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59276,"update_at":"2018-11-18T17:30:31.000Z","location":"New Horizons Center"}
+go to update59276
+client{"mobile":"00963938530962","acctstarttime":"2018-11-18T17:18:40.000Z","acctstoptime":"2018-11-18T17:31:07.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59274,"update_at":"2018-11-18T17:31:07.000Z","location":"New Horizons Center"}
+go to update59274
+go to add from update59276
+go to add from update59274
+add from update:{"mobile":"00963934531661","location":"New Horizons Center","acctstarttime":"2018-11-18T17:19:52.000Z","acctstoptime":"2018-11-18T17:30:31.000Z","radacctid":59276,"update_at":"2018-11-18T17:30:31.000Z","id":27700,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+add from update:{"mobile":"00963938530962","location":"New Horizons Center","acctstarttime":"2018-11-18T17:18:40.000Z","acctstoptime":"2018-11-18T17:31:07.000Z","radacctid":59274,"update_at":"2018-11-18T17:31:07.000Z","id":27701,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+go to add59287
+client{"mobile":"00963938530962","acctstarttime":"2018-11-18T17:18:40.000Z","acctstoptime":"2018-11-18T17:31:07.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59274,"update_at":"2018-11-18T17:31:07.000Z","location":"New Horizons Center"}
+go to update59274
+go to add59288
+add is Field:41369
+go to add from update59274
+add is Field:41369
+add from update:{"mobile":"00963938530962","location":"New Horizons Center","acctstarttime":"2018-11-18T17:18:40.000Z","acctstoptime":"2018-11-18T17:31:07.000Z","radacctid":59274,"update_at":"2018-11-18T17:31:07.000Z","id":27702,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+client{"mobile":"00963938530962","acctstarttime":"2018-11-18T17:18:40.000Z","acctstoptime":"2018-11-18T17:31:07.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59274,"update_at":"2018-11-18T17:31:07.000Z","location":"New Horizons Center"}
+go to add59287
+go to update59274
+go to add59288
+add is Field:41369
+go to add from update59274
+add is Field:41369
+add from update:{"mobile":"00963938530962","location":"New Horizons Center","acctstarttime":"2018-11-18T17:18:40.000Z","acctstoptime":"2018-11-18T17:31:07.000Z","radacctid":59274,"update_at":"2018-11-18T17:31:07.000Z","id":27703,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+go to add59287
+client{"mobile":"00963938530962","acctstarttime":"2018-11-18T17:18:40.000Z","acctstoptime":"2018-11-18T17:31:07.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59274,"update_at":"2018-11-18T17:31:07.000Z","location":"New Horizons Center"}
+go to update59274
+go to add59288
+add is Field:41369
+go to add from update59274
+add is Field:41369
+add from update:{"mobile":"00963938530962","location":"New Horizons Center","acctstarttime":"2018-11-18T17:18:40.000Z","acctstoptime":"2018-11-18T17:31:07.000Z","radacctid":59274,"update_at":"2018-11-18T17:31:07.000Z","id":27704,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+go to add59287
+client{"mobile":"00963947777815","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","location":"New Horizons Center"}
+go to update59181
+client{"mobile":"00963938530962","acctstarttime":"2018-11-18T17:18:40.000Z","acctstoptime":"2018-11-18T17:31:07.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59274,"update_at":"2018-11-18T17:31:07.000Z","location":"New Horizons Center"}
+go to update59274
+go to add59288
+go to add from update59181
+add is Field:41369
+go to add from update59274
+add is Field:41369
+add from update:{"mobile":"00963947777815","location":"New Horizons Center","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","id":27705,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+add from update:{"mobile":"00963938530962","location":"New Horizons Center","acctstarttime":"2018-11-18T17:18:40.000Z","acctstoptime":"2018-11-18T17:31:07.000Z","radacctid":59274,"update_at":"2018-11-18T17:31:07.000Z","id":27706,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+client{"mobile":"00963947777815","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","location":"New Horizons Center"}
+client{"mobile":"00963994494270","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","location":"New Horizons Center"}
+go to update59181
+go to update59257
+go to add from update59181
+go to add from update59257
+add from update:{"mobile":"00963947777815","location":"New Horizons Center","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","id":27707,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+add from update:{"mobile":"00963994494270","location":"New Horizons Center","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","id":27708,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+go to update59181
+client{"mobile":"00963947777815","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","location":"New Horizons Center"}
+client{"mobile":"00963994494270","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","location":"New Horizons Center"}
+go to update59257
+go to add from update59181
+go to add from update59257
+add from update:{"mobile":"00963947777815","location":"New Horizons Center","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","id":27709,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+add from update:{"mobile":"00963994494270","location":"New Horizons Center","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","id":27710,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+go to add59289
+go to add59290
+go to add59291
+client{"mobile":"00963947777815","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","location":"New Horizons Center"}
+go to update59181
+client{"mobile":"00963994494270","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","location":"New Horizons Center"}
+go to update59257
+add is Field:41369
+add is Field:41369
+add is Field:41369
+go to add from update59181
+go to add from update59257
+add from update:{"mobile":"00963947777815","location":"New Horizons Center","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","id":27711,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+add from update:{"mobile":"00963994494270","location":"New Horizons Center","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","id":27712,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+go to add59289
+go to add59290
+go to add59291
+go to add59292
+client{"mobile":"00963947777815","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","location":"New Horizons Center"}
+go to update59181
+client{"mobile":"00963994494270","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","location":"New Horizons Center"}
+go to update59257
+add is Field:41369
+add is Field:41369
+add is Field:41369
+add is Field:41369
+go to add from update59181
+go to add from update59257
+add from update:{"mobile":"00963947777815","location":"New Horizons Center","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","id":27713,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+add from update:{"mobile":"00963994494270","location":"New Horizons Center","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","id":27714,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+go to add59289
+go to add59290
+go to add59291
+go to add59292
+go to add59293
+client{"mobile":"00963947777815","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","location":"New Horizons Center"}
+go to update59181
+client{"mobile":"00963994494270","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","location":"New Horizons Center"}
+go to update59257
+add is Field:41369
+add is Field:41369
+add is Field:41369
+add is Field:41369
+add is Field:41369
+go to add from update59181
+go to add from update59257
+add from update:{"mobile":"00963947777815","location":"New Horizons Center","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","id":27715,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+add from update:{"mobile":"00963994494270","location":"New Horizons Center","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","id":27716,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+go to add59289
+go to add59290
+go to add59291
+go to add59292
+go to add59293
+client{"mobile":"00963947777815","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","location":"New Horizons Center"}
+go to update59181
+client{"mobile":"00963994494270","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","location":"New Horizons Center"}
+go to update59257
+add is Field:41369
+add is Field:41369
+add is Field:41369
+add is Field:41369
+add is Field:41369
+go to add from update59181
+go to add from update59257
+add from update:{"mobile":"00963947777815","location":"New Horizons Center","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","id":27717,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+add from update:{"mobile":"00963994494270","location":"New Horizons Center","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","id":27718,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+go to add59289
+go to add59290
+go to add59291
+go to add59292
+go to add59293
+client{"mobile":"00963947777815","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","location":"New Horizons Center"}
+go to update59181
+client{"mobile":"00963994494270","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","location":"New Horizons Center"}
+go to update59257
+add is Field:41369
+add is Field:41369
+add is Field:41369
+add is Field:41369
+go to add from update59181
+go to add from update59257
+add is Field:41369
+add from update:{"mobile":"00963947777815","location":"New Horizons Center","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","id":27719,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+add from update:{"mobile":"00963994494270","location":"New Horizons Center","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","id":27720,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+go to add59289
+go to add59290
+go to add59291
+go to add59292
+go to add59293
+client{"mobile":"00963947777815","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","location":"New Horizons Center"}
+go to update59181
+client{"mobile":"00963994494270","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","location":"New Horizons Center"}
+go to update59257
+add is Field:41369
+add is Field:41369
+add is Field:41369
+add is Field:41369
+add is Field:41369
+go to add from update59181
+go to add from update59257
+add from update:{"mobile":"00963947777815","location":"New Horizons Center","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","id":27721,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+add from update:{"mobile":"00963994494270","location":"New Horizons Center","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","id":27722,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+go to add59289
+go to add59290
+go to add59291
+go to add59292
+go to add59293
+client{"mobile":"00963947777815","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","location":"New Horizons Center"}
+go to update59181
+client{"mobile":"00963994494270","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","location":"New Horizons Center"}
+go to update59257
+add is Field:41369
+add is Field:41369
+add is Field:41369
+add is Field:41369
+add is Field:41369
+go to add from update59181
+go to add from update59257
+add from update:{"mobile":"00963947777815","location":"New Horizons Center","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","id":27723,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+add from update:{"mobile":"00963994494270","location":"New Horizons Center","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","id":27724,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+go to add59289
+go to add59291
+go to add59293
+client{"mobile":"00963947777815","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","location":"New Horizons Center"}
+go to update59181
+go to add59290
+go to add59292
+client{"mobile":"00963994494270","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","location":"New Horizons Center"}
+go to update59257
+add is Field:41369
+add is Field:41369
+add is Field:41369
+add is Field:41369
+go to add from update59181
+go to add from update59257
+add is Field:41369
+add from update:{"mobile":"00963947777815","location":"New Horizons Center","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","id":27725,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+add from update:{"mobile":"00963994494270","location":"New Horizons Center","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","id":27726,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+go to add59289
+go to add59292
+client{"mobile":"00963947777815","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","location":"New Horizons Center"}
+go to add59291
+go to add59290
+go to add59293
+go to update59181
+client{"mobile":"00963994494270","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","calledstationid":"TCHPK_NEW_HORIZONS_3","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","location":"New Horizons Center"}
+go to update59257
+add is Field:41369
+go to add from update59181
+go to add from update59257
+add is Field:41369
+add is Field:41369
+add is Field:41369
+add is Field:41369
+add from update:{"mobile":"00963947777815","location":"New Horizons Center","acctstarttime":"2018-11-18T16:35:24.000Z","acctstoptime":"2018-11-18T17:32:02.000Z","radacctid":59181,"update_at":"2018-11-18T17:32:02.000Z","id":27727,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
+add from update:{"mobile":"00963994494270","location":"New Horizons Center","acctstarttime":"2018-11-18T17:08:50.000Z","acctstoptime":"2018-11-18T17:32:30.000Z","radacctid":59257,"update_at":"2018-11-18T17:32:30.000Z","id":27728,"calledstationid":"TCHPK_NEW_HORIZONS_3"}
